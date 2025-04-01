@@ -35,13 +35,6 @@ I am a **Software Developer** with a strong background in **Web Development**, s
 ## 📊 GitHub Insights  
 ![AlbertoCativa GitHub stats](https://github-readme-stats.vercel.app/api?username=albertocativa&show_icons=true&theme=radical)
 
-## 📞 Let's Connect  
-
-📧 **Email:** [your-email@email.com](mailto:your-email@email.com)  
-💼 **LinkedIn:** [linkedin.com/in/your-username](#)  
-🐦 **Twitter:** [@your-username](#)  
-🌐 **Portfolio:** [yourwebsite.com](#)  
-
 I’m open to collaborations, consulting opportunities, and knowledge sharing. Let’s build something great together! 🚀  
 
 
