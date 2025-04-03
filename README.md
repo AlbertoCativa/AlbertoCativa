@@ -1,7 +1,7 @@
-# 👨‍💻 Web Appplication Developer 
+# 👨‍💻 Web Application Developer 
 
 ## 🚀 About Me  
-I am a **Web Appplication Developer** with a strong background in **Web Development**, specializing in **Laravel**, **Livewire**, and cloud-based solutions. My expertise spans software architecture, process optimization, and technical consulting for businesses and institutions. Additionally, I have experience in **radio journalism**, leveraging media to enhance communication in the tech industry.  
+I am a **Web Application Developer** with a strong background in **Web Development**, specializing in **Laravel**, **Livewire**, and cloud-based solutions. My expertise spans software architecture, process optimization, and technical consulting for businesses and institutions. Additionally, I have experience in **radio journalism**, leveraging media to enhance communication in the tech industry.  
 
 ### **Current Focus:**  
 ✔ **SaaS & Enterprise Solutions** – Developing scalable and high-performance management systems  
