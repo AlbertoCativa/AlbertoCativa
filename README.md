@@ -1,4 +1,4 @@
-# 👨‍💻 Software Developer | DevOps Enthusiast | Technical Consultant  
+# 👨‍💻 Web Appplication Developer 
 
 ## 🚀 About Me  
 I am a **Software Developer** with a strong background in **Web Development**, specializing in **Laravel**, **Livewire**, and cloud-based solutions. My expertise spans software architecture, process optimization, and technical consulting for businesses and institutions. Additionally, I have experience in **radio journalism**, leveraging media to enhance communication in the tech industry.  
