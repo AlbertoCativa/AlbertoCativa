@@ -24,14 +24,6 @@ I am a **Web Application Developer** with a strong background in **Web Developme
 - **Media & Communication:** Radio Journalism, Public Speaking  
 
 
-## 🌟 Featured Projects  
-
-📌 **[Ecclesia Express](#)** – A SaaS solution for parish management, optimizing administrative workflows  
-📌 **[Saúde em Casa](#)** – A home healthcare service platform connecting professionals with patients  
-📌 **[Procode](#)** – A tech startup delivering **web development & IT consulting services**  
-📌 **[PM&T Grupo](#)** – A digital platform for a logistics and cargo transportation company  
-
-
 ## 📊 GitHub Insights  
 ![AlbertoCativa GitHub stats](https://github-readme-stats.vercel.app/api?username=albertocativa&show_icons=true&theme=radical)
 
