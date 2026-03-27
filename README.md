@@ -1,37 +1,45 @@
-# 👨‍💻 Web Application Developer 
+# Desenvolvedor de Aplicações Web
 
-## 🚀 About Me  
-I am a **Web Application Developer** with a strong background in **Web Development**, specializing in **Laravel**, **Livewire**, and cloud-based solutions. My expertise spans software architecture, process optimization, and technical consulting for businesses and institutions. Additionally, I have experience in **radio journalism**, leveraging media to enhance communication in the tech industry.  
+## Sobre mim
 
-### **Current Focus:**  
-✔ **SaaS & Enterprise Solutions** – Developing scalable and high-performance management systems  
-✔ **Process Optimization** – Providing consulting services for **businesses and religious institutions**  
-✔ **Technical Training & Content Creation** – Educating developers through structured learning resources  
+Sou um **Desenvolvedor de Aplicações Web** focado em criar soluções digitais **práticas, escaláveis e orientadas a resultados**. Trabalho principalmente com **Laravel** e **Livewire**, desenvolvendo sistemas que não só funcionam bem, mas que ajudam empresas e instituições a **organizar melhor os seus processos e crescer com mais eficiência**.
 
+Tenho experiência em **consultoria tecnológica**, ajudando organizações a entenderem onde estão os seus problemas e como a tecnologia pode realmente resolver.
 
-## 🛠️ Tech Stack & Expertise  
+Além disso, trago comigo uma base em **jornalismo de rádio**, o que me permite comunicar ideias técnicas de forma clara e acessível — algo essencial quando se trabalha com clientes e equipas multidisciplinares.
 
-### **Core Technologies:**  
-- **Back-end:** Laravel, Livewire, PHP  
-- **Front-end:** Bootstrap, TailwindCSS, JS  
-- **Databases:** MySQL  
+---
 
-### **DevOps (Learning & Implementation):**  
-- **CI/CD:** GitHub Actions, workflow  
+## No que estou focado atualmente
 
-### **Other Skills:**  
-- **Technical Consulting:** Business Process Analysis, Digital Transformation  
-- **Media & Communication:** Radio Journalism, Public Speaking  
+✔ Desenvolvimento de **SaaS e sistemas de gestão**
+✔ **Otimização de processos** para empresas e instituições (especialmente no contexto local)
+✔ **Formação e criação de conteúdos técnicos** para desenvolvedores
 
+---
 
-## 📊 GitHub Insights  
-![AlbertoCativa GitHub stats](https://github-readme-stats.vercel.app/api?username=albertocativa&show_icons=true&theme=radical)
+### Principais ferramentas
 
-I’m open to collaborations, consulting opportunities, and knowledge sharing. Let’s build something great together! 🚀  
+* **Back-end:** Laravel, Livewire, PHP
+* **Front-end:** TailwindCSS, Bootstrap, JavaScript
+* **Base de dados:** MySQL
 
+### DevOps (em evolução)
 
+* CI/CD com GitHub Actions
+* Automação de workflows
 
+### Outras competências
 
+* **Consultoria tecnológica:** análise de processos e transformação digital
+* **Comunicação:** jornalismo de rádio e apresentação
 
+## Vamos trabalhar juntos
 
+Estou disponível para:
 
+* Projetos e colaborações
+* Consultoria tecnológica
+* Partilha de conhecimento e formação
+
+*Gosto de criar soluções que resolvem problemas reais — não apenas código bonito.*
